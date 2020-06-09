@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<booklist>
+	<book kind="컴퓨터">
+		<title>java</title>
+		<author>홍길동</author>
+		<price>15000</price>
+	</book>
+	<book kind="소설">
+		<title>힐러리의 삶</title>
+		<author>클린턴</author>
+		<price>23000</price>
+	</book>
+	
+		
+</booklist>
